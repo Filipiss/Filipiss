@@ -1,7 +1,6 @@
 ### Olá! Me chamo Filipi Soares e bem vindo ao meu perfil!! 
 
-- 🔭 Atualmente buscando uma oportunidade em front-end
-- 🌱 Estudando ReactJS
+- 🔭 Atualmente buscando uma oportunidade em desenvolvimento full-stack
 
 <div align="left">
   <a href="https://github.com/Filipiss">
